@@ -1296,11 +1296,6 @@
         <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
         <icon src="https://images.pluto.tv/series/65d5c436d8adfa000868f1fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65b14aae0cb1a100087a216e" start="20260720200000 +0000" stop="20260720203400 +0000">
-        <title>DAZN Ringside</title>
-        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
-        <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="6627621d56fc840008e47c90" start="20260720153527 +0000" stop="20260720160527 +0000">
         <title>Tennis Channel</title>
         <desc>tbc</desc>
@@ -40008,7 +40003,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Young Fedor Holz commands the chip lead, and he competes against top professionals.</desc>
         <icon src="https://images.pluto.tv/series/5b1904e2c65a06426375f385/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ad8d796e738977e2c31094a" start="20260721162417 +0000" stop="20260721200000 +0000">
+    <programme channel="5ad8d796e738977e2c31094a" start="20260721162417 +0000" stop="20260721171617 +0000">
+        <title>World Poker Tour: Las Vegas Final Table &amp; Conclusion - $1.6 million Top Prize.</title>
+        <desc>Young Fedor Holz holds a massive chip lead, and competes against Daniel Negreanu and Nick Petrangelo for the top prize of nearly $1.6 million.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904e2c65a06426375f385/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ad8d796e738977e2c31094a" start="20260721171617 +0000" stop="20260721200000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40028,7 +40028,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>When an energy experiment goes haywire, a rash of massive hurricanes rips across North America. A scientist must get his family to safety before the hurricanes merge, creating a "hypercane" with the power to wipe America off the map.</desc>
         <icon src="https://images.pluto.tv/series/66715d70946b360013f87f60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dbfeb961b411c00090b52b3" start="20260721160538 +0000" stop="20260721200000 +0000">
+    <programme channel="5dbfeb961b411c00090b52b3" start="20260721160538 +0000" stop="20260721175921 +0000">
+        <title>Stolen</title>
+        <desc>A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi. Starring Nicolas Cage and Malin Akerman.</desc>
+        <icon src="https://images.pluto.tv/series/6821b458a8cdcdbb7dd1c336/tile_1747039321262.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dbfeb961b411c00090b52b3" start="20260721175921 +0000" stop="20260721200000 +0000">
         <title>Pluto TV Action</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40038,7 +40043,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>In 1950s Moscow, communist Katya secretly spies for the Americans in the Cold War arms race. When she lands her biggest assignment, stealing secrets from rising government star Alexander, the last thing she expects is to fall in love with him.</desc>
         <icon src="https://images.pluto.tv/series/677cee78e408bb0013a10b1e/tile_1766542912781.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dbfedccc563080009b60f4a" start="20260721162023 +0000" stop="20260721200000 +0000">
+    <programme channel="5dbfedccc563080009b60f4a" start="20260721162023 +0000" stop="20260721180151 +0000">
+        <title>Hit and Run</title>
+        <desc>A lawyer is riding high after receiving a not guilty verdict for her client, but has to look over her shoulder when a woman she meets in a traffic accident is not all she appears to be.</desc>
+        <icon src="https://images.pluto.tv/series/67a1f3309a098f00144cd98a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dbfedccc563080009b60f4a" start="20260721180151 +0000" stop="20260721200000 +0000">
         <title>Pluto TV Thrillers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40088,7 +40098,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>In the course of one chaotic week, the lives of three conflicted New York City police officers are dramatically transformed by their involvement in a massive drug operation.</desc>
         <icon src="https://images.pluto.tv/series/695b3e68287ec44e14ecae04/tile_1767592186014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6401d85a49839300087b116c" start="20260721162400 +0000" stop="20260721200000 +0000">
+    <programme channel="6401d85a49839300087b116c" start="20260721162400 +0000" stop="20260721181500 +0000">
+        <title>Sleepless</title>
+        <desc>Don't judge a cop by his cover. Rescue. Revenge. Redemption. To get justice, sometimes you have to get brutal.</desc>
+        <icon src="https://images.pluto.tv/series/689f4bab9017101f05446b90/tile_1755270065725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6401d85a49839300087b116c" start="20260721181500 +0000" stop="20260721200000 +0000">
         <title>Moviesphere</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40103,7 +40118,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Norman Winchester: Alice tries some eel pie and investigates the origins of modern surgery as she explores the Norman period of British history by examining the town of Winchester.</desc>
         <icon src="https://images.pluto.tv/series/69e203383f22a165b0b45ba0/tile_1776419641129.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65819fc1b9adc4000813f37d" start="20260721161011 +0000" stop="20260721200000 +0000">
+    <programme channel="65819fc1b9adc4000813f37d" start="20260721161011 +0000" stop="20260721170201 +0000">
+        <title>Digging For Britain</title>
+        <desc>Prehistory: Humans are found to have lived in Britain earlier than thought when tools are unearthed in Norfolk, while some of our ancestors' customs are revealed at another dig.</desc>
+        <icon src="https://images.pluto.tv/series/69e5e2a28f919a54cf66405e/tile_1776673443504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65819fc1b9adc4000813f37d" start="20260721170201 +0000" stop="20260721200000 +0000">
         <title>History Hunters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65819fc1b9adc4000813f37d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40113,7 +40133,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Every evening, starting at 9 p.m., Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
         <icon src="https://images.pluto.tv/series/68c40823508ba507f0362630/tile_1757677605445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65a7ab137bdc8d0008487dfb" start="20260721160014 +0000" stop="20260721200000 +0000">
+    <programme channel="65a7ab137bdc8d0008487dfb" start="20260721160014 +0000" stop="20260721163014 +0000">
+        <title>Pluto TV Erotica</title>
+        <desc>Every evening, starting at 9 p.m., Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
+        <icon src="https://images.pluto.tv/series/68c40823508ba507f0362630/tile_1757677605445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a7ab137bdc8d0008487dfb" start="20260721163014 +0000" stop="20260721170014 +0000">
+        <title>Pluto TV Erotica</title>
+        <desc>Every evening, starting at 9 p.m., Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
+        <icon src="https://images.pluto.tv/series/68c40823508ba507f0362630/tile_1757677605445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a7ab137bdc8d0008487dfb" start="20260721170014 +0000" stop="20260721200000 +0000">
         <title>Pluto TV Erotica</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a7ab137bdc8d0008487dfb/featuredImage_1757667205000.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40123,7 +40153,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
         <icon src="https://images.pluto.tv/series/65d5c436d8adfa000868f1fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65b14aae0cb1a100087a216e" start="20260721163000 +0000" stop="20260721200000 +0000">
+    <programme channel="65b14aae0cb1a100087a216e" start="20260721163000 +0000" stop="20260721170000 +0000">
+        <title>DAZN Ringside starts at 9pm</title>
+        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
+        <icon src="https://images.pluto.tv/series/65d5c436d8adfa000868f1fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20260721170000 +0000" stop="20260721173000 +0000">
+        <title>DAZN Ringside starts at 9pm</title>
+        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
+        <icon src="https://images.pluto.tv/series/65d5c436d8adfa000868f1fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20260721173000 +0000" stop="20260721200000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40133,7 +40173,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>tbc</desc>
         <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260721160527 +0000" stop="20260721200000 +0000">
+    <programme channel="6627621d56fc840008e47c90" start="20260721160527 +0000" stop="20260721163527 +0000">
+        <title>Tennis Channel</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6627621d56fc840008e47c90" start="20260721163527 +0000" stop="20260721170527 +0000">
+        <title>Tennis Channel</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6627621d56fc840008e47c90" start="20260721170527 +0000" stop="20260721200000 +0000">
         <title>Tennis Channel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6627621d56fc840008e47c90/featuredImage_1756973182434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40143,7 +40193,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>An exclusive look at one of the most iconic seasons in golf. Tiger Woods changed golf history in 2000, securing nine wins, including three major championships, and breaking several records. 25 years later, TIGER 2000 revisits that legendary season.</desc>
         <icon src="https://images.pluto.tv/series/66e41496e08731001311e7cb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d885aef0f17500084b6750" start="20260721170000 +0000" stop="20260721200000 +0000">
+    <programme channel="66d885aef0f17500084b6750" start="20260721170000 +0000" stop="20260721181500 +0000">
+        <title>PGA Tour Originals</title>
+        <desc>Stories from the PGA Tour.</desc>
+        <icon src="https://images.pluto.tv/series/66e41496e08731001311e7cb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d885aef0f17500084b6750" start="20260721181500 +0000" stop="20260721200000 +0000">
         <title>PGA TOUR</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d885aef0f17500084b6750/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40153,7 +40208,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
         <icon src="https://images.pluto.tv/series/67d9a3ff798df95b8e10c81e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260721163000 +0000" stop="20260721200000 +0000">
+    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260721163000 +0000" stop="20260721170000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67d9a3ff798df95b8e10c81e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260721170000 +0000" stop="20260721173000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67d9a3ff798df95b8e10c81e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260721173000 +0000" stop="20260721200000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66ed3e9d5e4a6e0008b346e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40183,7 +40248,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Mervyn King joins Henry Deacon on Tungsten Talk to reflect on his darts career so far.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1d9e8cf62654291f225/tile_1757661352499.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67063e78b2ffb10008195d08" start="20260721162600 +0000" stop="20260721200000 +0000">
+    <programme channel="67063e78b2ffb10008195d08" start="20260721162600 +0000" stop="20260721165300 +0000">
+        <title>The Best of Ashley Coleman: Top Moments &amp; Highlights</title>
+        <desc>Relive the best moments from Ashley Coleman with his top highlights and unforgettable darts action!</desc>
+        <icon src="https://images.pluto.tv/series/68c886ba2eb4d0c1a4c3e593/tile_1761084726650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67063e78b2ffb10008195d08" start="20260721165300 +0000" stop="20260721172100 +0000">
+        <title>The Story of Nathan Aspinall</title>
+        <desc>Henry Deacon and Paul Nicholson discuss Aspinall's grit and determination as a competitive force in darts.</desc>
+        <icon src="https://images.pluto.tv/series/67f40648670ae21931e15624/tile_1780600595655.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67063e78b2ffb10008195d08" start="20260721172100 +0000" stop="20260721200000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/featuredImage_1760038204224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40193,7 +40268,22 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Dominance FC TV shows top-level MMA fighters every evening from 9 p.m. On this channel, you can watch previous events and live broadcasts from the Airtox Dominance Fighting Championship.</desc>
         <icon src="https://images.pluto.tv/series/68a83a305190a45dc96b07ae/tile_1755855410224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685aa802fb6023de7cc56357" start="20260721162818 +0000" stop="20260721200000 +0000">
+    <programme channel="685aa802fb6023de7cc56357" start="20260721162818 +0000" stop="20260721165818 +0000">
+        <title>Dominance FC TV</title>
+        <desc>Dominance FC TV shows top-level MMA fighters every evening from 9 p.m. On this channel, you can watch previous events and live broadcasts from the Airtox Dominance Fighting Championship.</desc>
+        <icon src="https://images.pluto.tv/series/68a83a305190a45dc96b07ae/tile_1755855410224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685aa802fb6023de7cc56357" start="20260721165818 +0000" stop="20260721165918 +0000">
+        <title>Dominance FC TV</title>
+        <desc>Dominance FC TV shows top-level MMA fighters every evening from 9 p.m. On this channel, you can watch previous events and live broadcasts from the Airtox Dominance Fighting Championship.</desc>
+        <icon src="https://images.pluto.tv/series/68a83a305190a45dc96b07ae/tile_1755855410224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685aa802fb6023de7cc56357" start="20260721165918 +0000" stop="20260721172918 +0000">
+        <title>Dominance FC TV</title>
+        <desc>Dominance FC TV shows top-level MMA fighters every evening from 9 p.m. On this channel, you can watch previous events and live broadcasts from the Airtox Dominance Fighting Championship.</desc>
+        <icon src="https://images.pluto.tv/series/68a83a305190a45dc96b07ae/tile_1755855410224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685aa802fb6023de7cc56357" start="20260721172918 +0000" stop="20260721200000 +0000">
         <title>Dominance FC TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685aa802fb6023de7cc56357/featuredImage_1750772662439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40203,7 +40293,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Spanning seven years, Brock Lesnar and Roman Reigns had one of the longest rivalries in WWE; when Brock made his return in 2012, Roman burst onto the scene and quickly rose to stardom.</desc>
         <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260721165100 +0000" stop="20260721200000 +0000">
+    <programme channel="68c820525ec82769fdfcd104" start="20260721165100 +0000" stop="20260721174300 +0000">
+        <title>WWE Rivals</title>
+        <desc>Hulk Hogan and Randy Savage were two men who pushed each other to greatness; they were close friends outside the ring and bitter enemies when the bell rang.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68c820525ec82769fdfcd104" start="20260721174300 +0000" stop="20260721200000 +0000">
         <title>Wrestling Legends TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/featuredImage_1764927594544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40213,7 +40308,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Coverage of the latest rally event.</desc>
         <icon src="https://images.pluto.tv/series/69aeb8c16d7de5ca36a5b0ff/tile_1773058242531.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e024a7e92438c27a425a8" start="20260721161700 +0000" stop="20260721200000 +0000">
+    <programme channel="696e024a7e92438c27a425a8" start="20260721161700 +0000" stop="20260721171700 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Racers compete against each other in the Monte Carlo Rally to emerge victorious and win the coveted title.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce9a4b1996b7d1334f3b/tile_1772539547751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e024a7e92438c27a425a8" start="20260721171700 +0000" stop="20260721200000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/featuredImage_1770892518087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40223,7 +40323,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Following the intervention of a Massachusetts family, a man faces jail time if his home does not pass a final city inspection.</desc>
         <icon src="https://images.pluto.tv/series/69cf65f42ca4ae01e9e31a93/tile_1775199733153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="698a040b48d98175cb870fc5" start="20260721165100 +0000" stop="20260721200000 +0000">
+    <programme channel="698a040b48d98175cb870fc5" start="20260721165100 +0000" stop="20260721174300 +0000">
+        <title>Hoarders</title>
+        <desc>Julie's hoarding has reached such heights she didn't realise there was a homeless woman living among mounds of junk in her basement. Now, it's time for her to tidy up.</desc>
+        <icon src="https://images.pluto.tv/series/69ca437e615bba1ee0cece4a/tile_1774863231017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="698a040b48d98175cb870fc5" start="20260721174300 +0000" stop="20260721200000 +0000">
         <title>Hoarders</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/featuredImage_1771343157070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40233,7 +40338,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Cyril panics when his betrayed partner Karl Snarl returns for revenge. Meanwhile, Bert discovers an old helicopter, and Melissa must overcome her fear of heights to help save her friends during a dangerous confrontation.</desc>
         <icon src="https://images.pluto.tv/series/69f86a71bf3cd485093faa96/tile_1777887879681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b422590306b277746f48cb" start="20260721161607 +0000" stop="20260721200000 +0000">
+    <programme channel="69b422590306b277746f48cb" start="20260721161607 +0000" stop="20260721164207 +0000">
+        <title>The Raccoons</title>
+        <desc>After losing power due to unpaid bills, Cyril plans to build a dam to control energy in the forest. Meanwhile, Bert and Cedric stay with Aunt Gertie, whose strict ways test their patience while bigger trouble brews outside.</desc>
+        <icon src="https://images.pluto.tv/series/69f86a71bf3cd485093faa96/tile_1777887879681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b422590306b277746f48cb" start="20260721164207 +0000" stop="20260721170807 +0000">
+        <title>The Raccoons</title>
+        <desc>Cousin Bentley visits the Raccoons, bringing his usual quirks along. Meanwhile, Cyril seeks to regain his youth using a questionable potion, leading to chaos as his reckless attempt causes unexpected and humorous consequences.</desc>
+        <icon src="https://images.pluto.tv/series/69f86a71bf3cd485093faa96/tile_1777887879681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b422590306b277746f48cb" start="20260721170807 +0000" stop="20260721200000 +0000">
         <title>The Raccoons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b422590306b277746f48cb/featuredImage_1776351895988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40243,7 +40358,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Join one of the biggest stars in football, Peter Crouch, Capitol Breakfasts one and only Christopher Stark and..</desc>
         <icon src="https://images.pluto.tv/series/6a195f49cdfd39da916cff41/tile_1780047690739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b91797611b4a9fce103037" start="20260721163000 +0000" stop="20260721200000 +0000">
+    <programme channel="69b91797611b4a9fce103037" start="20260721163000 +0000" stop="20260721170000 +0000">
+        <title>That Peter Crouch Podcast</title>
+        <desc>Join one of the biggest stars in football, Peter Crouch, Capitol Breakfasts one and only Christopher Stark and..</desc>
+        <icon src="https://images.pluto.tv/series/6a195f49cdfd39da916cff41/tile_1780047690739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b91797611b4a9fce103037" start="20260721170000 +0000" stop="20260721173000 +0000">
+        <title>That Peter Crouch Podcast</title>
+        <desc>Join one of the biggest stars in football, Peter Crouch, Capitol Breakfasts one and only Christopher Stark and..</desc>
+        <icon src="https://images.pluto.tv/series/6a195f49cdfd39da916cff41/tile_1780047690739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b91797611b4a9fce103037" start="20260721173000 +0000" stop="20260721200000 +0000">
         <title>That Peter Crouch Podcast</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b91797611b4a9fce103037/featuredImage_1776258946102.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40253,7 +40378,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>The UK’s biggest couples Therapy Podcast, hosted by Peter Crouch and Abbey Clancy, invites you to explore the trials and tribulations experienced by themselves, and you the listener, as we navigate our way through complex relationships.</desc>
         <icon src="https://images.pluto.tv/series/6a19605ba7b5a6c5608cecb6/tile_1780047977682.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b917d632eb9227dd6b427e" start="20260721161911 +0000" stop="20260721200000 +0000">
+    <programme channel="69b917d632eb9227dd6b427e" start="20260721161911 +0000" stop="20260721164911 +0000">
+        <title>The Therapy Crouch</title>
+        <desc>The UK’s biggest couples Therapy Podcast, hosted by Peter Crouch and Abbey Clancy, invites you to explore the trials and tribulations experienced by themselves, and you the listener, as we navigate our way through complex relationships.</desc>
+        <icon src="https://images.pluto.tv/series/6a19605ba7b5a6c5608cecb6/tile_1780047977682.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b917d632eb9227dd6b427e" start="20260721164911 +0000" stop="20260721171911 +0000">
+        <title>The Therapy Crouch</title>
+        <desc>The UK’s biggest couples Therapy Podcast, hosted by Peter Crouch and Abbey Clancy, invites you to explore the trials and tribulations experienced by themselves, and you the listener, as we navigate our way through complex relationships.</desc>
+        <icon src="https://images.pluto.tv/series/6a19605ba7b5a6c5608cecb6/tile_1780047977682.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b917d632eb9227dd6b427e" start="20260721171911 +0000" stop="20260721200000 +0000">
         <title>The Therapy Crouch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b917d632eb9227dd6b427e/featuredImage_1775836696076.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40263,7 +40398,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
         <icon src="https://images.pluto.tv/series/6a50c7806b6cb3bb81fefdc5/tile_1783678871050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c3c6c912e978ee49277dc7" start="20260721163000 +0000" stop="20260721200000 +0000">
+    <programme channel="69c3c6c912e978ee49277dc7" start="20260721163000 +0000" stop="20260721170000 +0000">
+        <title>That's 60s</title>
+        <desc>Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c7806b6cb3bb81fefdc5/tile_1783678871050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c3c6c912e978ee49277dc7" start="20260721170000 +0000" stop="20260721173000 +0000">
+        <title>That's 60s</title>
+        <desc>Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+        <icon src="https://images.pluto.tv/series/6a50c7806b6cb3bb81fefdc5/tile_1783678871050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c3c6c912e978ee49277dc7" start="20260721173000 +0000" stop="20260721200000 +0000">
         <title>That's 60s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/featuredImage_1779185580246.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40273,7 +40418,22 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Containers from New York make their way to Long Beach, California; bidders are interested in a billionaire's unclaimed goods, and a one-of-a-kind auction is held.</desc>
         <icon src="https://images.pluto.tv/series/69e8afd0f7413575bb673c38/tile_1776857053925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c6a93486431735d974bc2a" start="20260721160636 +0000" stop="20260721200000 +0000">
+    <programme channel="69c6a93486431735d974bc2a" start="20260721160636 +0000" stop="20260721163121 +0000">
+        <title>Container Wars</title>
+        <desc>Bidders battle over a super heavyweight freight, while a container filled with outdoor adventure equipment holds a surprise.</desc>
+        <icon src="https://images.pluto.tv/series/69e8afd0f7413575bb673c38/tile_1776857053925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c6a93486431735d974bc2a" start="20260721163121 +0000" stop="20260721165615 +0000">
+        <title>Container Wars</title>
+        <desc>Enter the fast-paced world of shipping port auctions. In this war of serious money, sky-high stakes and outsize egos, it’s either win big or go home empty-handed.</desc>
+        <icon src="https://images.pluto.tv/series/69e8afd0f7413575bb673c38/tile_1776857053925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c6a93486431735d974bc2a" start="20260721165615 +0000" stop="20260721172119 +0000">
+        <title>Storage Hunters</title>
+        <desc>In one of the most unusual, big money auctions yet, Sean auctions the contents of abandoned big-rigs. Scott and Jesse go head to head over a space age haul, while Brandon and Lori take a chance on a battle-ready rig.</desc>
+        <icon src="https://images.pluto.tv/series/69e750488f919a54cf5102e3/tile_1776767049606.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c6a93486431735d974bc2a" start="20260721172119 +0000" stop="20260721200000 +0000">
         <title>Deal Masters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c6a93486431735d974bc2a/featuredImage_1778165757861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40283,7 +40443,12 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>In today's show Charlie from London is going to be given five menus each put together by a potential blind date.</desc>
         <icon src="https://images.pluto.tv/series/69d4bf2011a68f7704ed31e6/tile_1775550249891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69d51f98fcb9bf5e303ca0c1" start="20260721164928 +0000" stop="20260721200000 +0000">
+    <programme channel="69d51f98fcb9bf5e303ca0c1" start="20260721164928 +0000" stop="20260721174250 +0000">
+        <title>Dinner Date</title>
+        <desc>In today's show Charlie from London is going to be given five menus each put together by a potential blind date.</desc>
+        <icon src="https://images.pluto.tv/series/69d4bf2011a68f7704ed31e6/tile_1775550249891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69d51f98fcb9bf5e303ca0c1" start="20260721174250 +0000" stop="20260721200000 +0000">
         <title>Dinner Date</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69d51f98fcb9bf5e303ca0c1/featuredImage_1777472699054.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42868,12 +43033,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Can a room be painted using explosives via Adam's snowflake frame or Jamie's steel sphere? Can a boat be split in two by a channel marker?</desc>
         <icon src="https://images.pluto.tv/series/5f0d6a7e1df496001b02904d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5bd833b41843b56328bac189" start="20260721162400 +0000" stop="20260721172200 +0000">
-        <title>MythBusters: Episode 89</title>
-        <desc>Myths tested: Is it possible to walk on water? Can a speeding arrow be snatched out of the air? Can a sword be stopped with one's bare hands?</desc>
-        <icon src="https://images.pluto.tv/series/5f0d6a7e1df496001b02904d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5bd833b41843b56328bac189" start="20260721172200 +0000" stop="20260721200000 +0000">
+    <programme channel="5bd833b41843b56328bac189" start="20260721162400 +0000" stop="20260721200000 +0000">
         <title>Mythbusters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5bd833b41843b56328bac189/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42883,12 +43043,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Scott and Dawn want their sister Betty to leave her boyfriend Michael because he's allegedly violent. The drama will explode when Scott confronts Michael on our stage today!</desc>
         <icon src="https://images.pluto.tv/series/5b1904e5c65a06426375f5ae/tile_1778248442953.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dc2ba1a9c91420009db4858" start="20260721162600 +0000" stop="20260721171300 +0000">
-        <title>The Steve Wilkos Show: I Punch a Woman like I Punch a Man</title>
-        <desc>Chelse claims that her 19-month-old daughter is Malcolm's and that he beat her while pregnant. Amber and Phillip accuse each other of being abusive and want the polygraph tests to prove their claims!</desc>
-        <icon src="https://images.pluto.tv/series/5b1904e5c65a06426375f5ae/tile_1778248442953.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5dc2ba1a9c91420009db4858" start="20260721171300 +0000" stop="20260721200000 +0000">
+    <programme channel="5dc2ba1a9c91420009db4858" start="20260721162600 +0000" stop="20260721200000 +0000">
         <title>Nosey</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42898,12 +43053,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Tensions run high as the teams are challenged to make eight unique dishes using a selection of ostrich cuts.</desc>
         <icon src="https://images.pluto.tv/series/6526d4ac3e6938001ab29ffe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e6f38792075160007d85823" start="20260721164900 +0000" stop="20260721174000 +0000">
-        <title>Hell's Kitchen USA</title>
-        <desc>The contestants compete in a surf and turf protein relay for the chance to win a day of surfing in San Diego.</desc>
-        <icon src="https://images.pluto.tv/series/6526d4ac3e6938001ab29ffe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5e6f38792075160007d85823" start="20260721174000 +0000" stop="20260721200000 +0000">
+    <programme channel="5e6f38792075160007d85823" start="20260721164900 +0000" stop="20260721200000 +0000">
         <title>Hell's Kitchen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e6f38792075160007d85823/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42913,17 +43063,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Nikki writes a hot book about the Professor.</desc>
         <icon src="https://images.pluto.tv/series/685e6fd8a53444ef2ad79f2a/tile_1751019481464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8f8622166000071a929f" start="20260721161933 +0000" stop="20260721164426 +0000">
-        <title>NEW  The Parkers: Practice What You Preach</title>
-        <desc>A preacher’s wild past jeopardizes her future.</desc>
-        <icon src="https://images.pluto.tv/series/685e6fd8a53444ef2ad79f2a/tile_1751019481464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f8f8622166000071a929f" start="20260721164426 +0000" stop="20260721170920 +0000">
-        <title>NEW  The Parkers: Could It Be You?</title>
-        <desc>Nikki meets her soul mate.</desc>
-        <icon src="https://images.pluto.tv/series/685e6fd8a53444ef2ad79f2a/tile_1751019481464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f8f8622166000071a929f" start="20260721170920 +0000" stop="20260721200000 +0000">
+    <programme channel="604f8f8622166000071a929f" start="20260721161933 +0000" stop="20260721200000 +0000">
         <title>BET Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8f8622166000071a929f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42933,17 +43073,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Judge Judith Sheindlin presides over cases in her courtroom.</desc>
         <icon src="https://images.pluto.tv/series/68f9f2d36e0067f40d3109bf/tile_1767970100388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="622f498d119b4c000719c0b7" start="20260721161750 +0000" stop="20260721164040 +0000">
-        <title>Judge Judy</title>
-        <desc>Judge Judith Sheindlin presides over cases in her courtroom.</desc>
-        <icon src="https://images.pluto.tv/series/68f9f2d36e0067f40d3109bf/tile_1767970100388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="622f498d119b4c000719c0b7" start="20260721164040 +0000" stop="20260721170330 +0000">
-        <title>Judge Judy</title>
-        <desc>Judge Judith Sheindlin presides over cases in her courtroom.</desc>
-        <icon src="https://images.pluto.tv/series/68f9f2d36e0067f40d3109bf/tile_1767970100388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="622f498d119b4c000719c0b7" start="20260721170330 +0000" stop="20260721200000 +0000">
+    <programme channel="622f498d119b4c000719c0b7" start="20260721161750 +0000" stop="20260721200000 +0000">
         <title>Judge Judy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42953,17 +43083,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Ton and Allen teach a cocky new auction hunter a lesson. They spot a 1940's-era shuffleboard table and uncover an early hot rod made from the fuel tank of a WWII fighter plane!</desc>
         <icon src="https://images.pluto.tv/series/5d9cd434cd65d39250f8d069/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac50e92c48f900071444c9" start="20260721162154 +0000" stop="20260721164610 +0000">
-        <title>Auction Hunters: Betsy's Last Stand</title>
-        <desc>With their beloved bread truck on life support, Ton and Allen head to an auction to help save her. Will an industrial grinder and a classic Chevy be enough to mend Betsy, or will the guys be forced to say goodbye for good?</desc>
-        <icon src="https://images.pluto.tv/series/677cf41b3eea500013f7b98b/tile_1780400521439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62ac50e92c48f900071444c9" start="20260721164610 +0000" stop="20260721171042 +0000">
-        <title>Auction Hunters: Allen's Big Crush</title>
-        <desc>The guys battle it out with their fierce former-employee, while a shill bidder threatens to ruin the day. When all hope seems lost, a set of monster truck tires and a mystery box are their last chance to come out on top.</desc>
-        <icon src="https://images.pluto.tv/series/677cf41b3eea500013f7b98b/tile_1780400521439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62ac50e92c48f900071444c9" start="20260721171042 +0000" stop="20260721200000 +0000">
+    <programme channel="62ac50e92c48f900071444c9" start="20260721162154 +0000" stop="20260721200000 +0000">
         <title>Auction Hunters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42973,17 +43093,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Prince Zuko, a young Firebender whose mission in life is to capture the Avatar, tracks Aang down to the Southern Water Tribe village where Katara and Sokka live.</desc>
         <icon src="https://images.pluto.tv/series/6564827ec347d50013987675/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656df599c0fc8800089c75ab" start="20260721160801 +0000" stop="20260721163411 +0000">
-        <title>Avatar: The Last Airbender: Ep 3</title>
-        <desc>Aang is eager to take Sokka and Katara to the Air Temple where he was raised. But upon arrival, it becomes apparent that the temple is not at all how Aang remembers it.</desc>
-        <icon src="https://images.pluto.tv/series/6564827ec347d50013987675/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="656df599c0fc8800089c75ab" start="20260721163411 +0000" stop="20260721170006 +0000">
-        <title>Avatar: The Last Airbender: Ep 4</title>
-        <desc>When locals of a small island discover Aang is the Avatar, they treat him like a celebrity.</desc>
-        <icon src="https://images.pluto.tv/series/6564827ec347d50013987675/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="656df599c0fc8800089c75ab" start="20260721170006 +0000" stop="20260721200000 +0000">
+    <programme channel="656df599c0fc8800089c75ab" start="20260721160801 +0000" stop="20260721200000 +0000">
         <title>Avatar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42993,12 +43103,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Amanda Kane wants to fund a trip to New York for her two grown-up children.</desc>
         <icon src="https://images.pluto.tv/series/677d48781df80100141512f8/tile_1767313959518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65a7af553af63d000828acca" start="20260721161052 +0000" stop="20260721170138 +0000">
-        <title>Cash In The Attic: McNulty</title>
-        <desc>Retired teacher Marie wants to help her children renovate their holiday home in France.</desc>
-        <icon src="https://images.pluto.tv/series/677d48781df80100141512f8/tile_1767313959518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65a7af553af63d000828acca" start="20260721170138 +0000" stop="20260721200000 +0000">
+    <programme channel="65a7af553af63d000828acca" start="20260721161052 +0000" stop="20260721200000 +0000">
         <title>Cash In The Attic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a7af553af63d000828acca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43008,17 +43113,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>The perfect channel for the digital age, bringing you the iconic sounds and vibes of the 90s and 00s! Includes classics from Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga and many more.</desc>
         <icon src="https://images.pluto.tv/series/6752c1a55534bb00081b6b90/tile_1771233977965.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c209e19ca71000846cf38" start="20260721163000 +0000" stop="20260721170000 +0000">
-        <title>That's 90s00s</title>
-        <desc>The perfect channel for the digital age, bringing you the iconic sounds and vibes of the 90s and 00s! Includes classics from Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga and many more.</desc>
-        <icon src="https://images.pluto.tv/series/6752c1a55534bb00081b6b90/tile_1771233977965.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c209e19ca71000846cf38" start="20260721170000 +0000" stop="20260721173000 +0000">
-        <title>That's 90s00s</title>
-        <desc>The perfect channel for the digital age, bringing you the iconic sounds and vibes of the 90s and 00s! Includes classics from Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga and many more.</desc>
-        <icon src="https://images.pluto.tv/series/6752c1a55534bb00081b6b90/tile_1771233977965.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c209e19ca71000846cf38" start="20260721173000 +0000" stop="20260721200000 +0000">
+    <programme channel="660c209e19ca71000846cf38" start="20260721163000 +0000" stop="20260721200000 +0000">
         <title>That's 90s00s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c209e19ca71000846cf38/featuredImage_1771233902958.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43028,17 +43123,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Graham is joined by heavyweight boxer Anthony Joshua, Rachel Weisz starring in 'My Cousin Rachel', the hilarious Greg Davies, Martin Freeman talking about his West End political comedy 'Labour of Love', and a musical performance from Shawn Mendes.</desc>
         <icon src="https://images.pluto.tv/series/67dd6acf46d66c4aa0132532/tile_1752747189692.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66e06576abec540008cc17a9" start="20260721161200 +0000" stop="20260721165800 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>On Graham's sofa are Hollywood stars Chris Hemsworth and Paul Rudd, Oscar-winner Julianne Moore, and Emilia Clarke and Kit Harington, who discuss the final season of 'Game of Thrones'. With music from Tom Walker, who performs 'Just You and I'.</desc>
-        <icon src="https://images.pluto.tv/series/67dd6acf46d66c4aa0132532/tile_1752747189692.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66e06576abec540008cc17a9" start="20260721165800 +0000" stop="20260721174400 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>Together on Graham's sofa are Annette Bening starring in '20th Century Women', Andrew Garfield appearing in 'Angels in America', Harriet Harman discussing her memoir 'A Woman's Work', Asa Butterfield in 'The Space Between Us', and music from Elbow.</desc>
-        <icon src="https://images.pluto.tv/series/67dd6acf46d66c4aa0132532/tile_1752747189692.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66e06576abec540008cc17a9" start="20260721174400 +0000" stop="20260721200000 +0000">
+    <programme channel="66e06576abec540008cc17a9" start="20260721161200 +0000" stop="20260721200000 +0000">
         <title>The Graham Norton Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66e06576abec540008cc17a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43048,22 +43133,7 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Questions Only, Quiz Show, Film Dub, Hats, Weird Newscasters, Party Quirks, Daytime Talk Show.</desc>
         <icon src="https://images.pluto.tv/series/671b5438b99f85001395062a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="672cb91149c40600081cbee5" start="20260721161138 +0000" stop="20260721163506 +0000">
-        <title>Whose Line Is It Anyway?</title>
-        <desc>Colin directs a movie with "Jerry Springer Show" guests and in Bollywood style, then reports from a swamp full of frogs. Wayne and Gary sing songs of the spa. (S11, E08)</desc>
-        <icon src="https://images.pluto.tv/series/693adb106a2e5eeebc5f06a0/tile_1784287801301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="672cb91149c40600081cbee5" start="20260721163506 +0000" stop="20260721165654 +0000">
-        <title>Whose Line Is It Anyway?</title>
-        <desc>Top class guest performer Keegan-Michael Key joins Ryan in guzzling Italian food in a "gangstery" Helping Hands. Plus, the cast take a law-breaking beach stroll in Irish Drinking Song. (S3, E11)</desc>
-        <icon src="https://images.pluto.tv/series/693adb106a2e5eeebc5f06a0/tile_1784287801301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="672cb91149c40600081cbee5" start="20260721165654 +0000" stop="20260721172110 +0000">
-        <title>Whose Line Is It Anyway?</title>
-        <desc>Aisha introduces another collection of unseen material from past series', incl. a crazy edition of "Party Quirks" and an action-packed flamenco scene with celebrity guest Marisol Nichols. (S12, E02)</desc>
-        <icon src="https://images.pluto.tv/series/693adb106a2e5eeebc5f06a0/tile_1784287801301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="672cb91149c40600081cbee5" start="20260721172110 +0000" stop="20260721200000 +0000">
+    <programme channel="672cb91149c40600081cbee5" start="20260721161138 +0000" stop="20260721200000 +0000">
         <title>Whose Line Is It Anyway?</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/672cb91149c40600081cbee5/featuredImage_1772041730489.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43075,26 +43145,7 @@ when her biggest commitment was to Jägerbombs and fake tan. Since then
 she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</desc>
         <icon src="https://images.pluto.tv/series/690867768643dc1657dae465/tile_1762461182452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8ffee9d1d49e672fe790f" start="20260721162048 +0000" stop="20260721164735 +0000">
-        <title>The Yellow Couch with Jeremy Lynch - Patrice Evra</title>
-        <desc>Today, we’ve got a guest who has
-lived several lives in one. On the pitch, he
-was a fierce left-back who collected
-trophies like kids collect Pokémon cards.
-Off the pitch, he’s become the man of
-Monday mornings.</desc>
-        <icon src="https://images.pluto.tv/series/6901f3b36538cde566cbf1f9/tile_1764693408450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e8ffee9d1d49e672fe790f" start="20260721164735 +0000" stop="20260721171342 +0000">
-        <title>The Yellow Couch with Jeremy Lynch - Ben Whittaker</title>
-        <desc>A guest who has a
-huge drive and work ethics and has
-overcome some hurdles that have possibly
-made him stronger. His entrances make Harry Styles look
-underdressed at Coachella.</desc>
-        <icon src="https://images.pluto.tv/series/6912f2debb69fb3258a6a23f/tile_1762990657688.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e8ffee9d1d49e672fe790f" start="20260721171342 +0000" stop="20260721200000 +0000">
+    <programme channel="68e8ffee9d1d49e672fe790f" start="20260721162048 +0000" stop="20260721200000 +0000">
         <title>The Yellow Couch with Jeremy Lynch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/featuredImage_1761768607449.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43104,17 +43155,7 @@ underdressed at Coachella.</desc>
         <desc>America's Funniest Home Videos</desc>
         <icon src="https://images.pluto.tv/series/6917003bfd69a4cf35cf26d1/tile_1764166166911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690dc8ed1ee9b6ac66607ce2" start="20260721163000 +0000" stop="20260721170000 +0000">
-        <title>America's Funniest Home Videos: Holiday Edition</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6917003bfd69a4cf35cf26d1/tile_1764166166911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="690dc8ed1ee9b6ac66607ce2" start="20260721170000 +0000" stop="20260721173000 +0000">
-        <title>America's Funniest Home Videos: Holiday Edition</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6917003bfd69a4cf35cf26d1/tile_1764166166911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="690dc8ed1ee9b6ac66607ce2" start="20260721173000 +0000" stop="20260721200000 +0000">
+    <programme channel="690dc8ed1ee9b6ac66607ce2" start="20260721163000 +0000" stop="20260721200000 +0000">
         <title>America's Funniest Home Videos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/featuredImage_1767781597145.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
